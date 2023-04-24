@@ -1,8 +1,31 @@
 *{
     font-family: 'Michroma', sans-serif;
     font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
     margin: 0;
     padding : 0;
     box-sizing: border-box;
 }
 
+body{
+    background: url(images/nature-colorful-landscape-dusk-cloud.jpg) no-repeat center center/ cover;
+    height:100vh;
+    position: relative;
+}
+h1{
+    display:flex;
+    position: absolute;
+    margin-left: 42%;
+    margin-top:20%;
+
+
+}
+form{
+    
+    display:flex;
+    position: absolute;
+    margin-left: 42%;
+  margin-top:5%;
+  top:37%;
+
+}
